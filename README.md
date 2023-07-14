@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaishali Singh</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/v9hVc64dATPzujyv8.">
+<img align="right" alt="Coding" width="400" src="https://www.freepik.com/free-photos-vectors/woman-work">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishali1499&label=Profile%20views&color=0e75b6&style=flat" alt="vaishali1499" /> </p>
 
 - 🌱 I’m currently learning ** java Development**
